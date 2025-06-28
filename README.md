@@ -17,10 +17,11 @@
 - 댓글 목록 조회 기능
   - 사용자가 “댓글 목록 조회” 요청을 전송하면 서버는 해당 게시글의 댓글을 지정된 페이징 기준(예: 최신순, 페이지 번호·크기)으로 조회하여 리스트 형태로 반환한다.
 
+# ERD
 ![health erd](https://github.com/user-attachments/assets/a5357137-c071-478e-a3b7-8af9cbe6f2ad)
 
-
-
-
-
-
+# Tech Stack
+<img src="https://github.com/user-attachments/assets/2fd5d945-1144-4841-aa7f-010cfe7f01dc" alt="image" width="10%" />
+<img src="https://github.com/user-attachments/assets/ac512551-3e5c-423d-839e-26b090f0dbbb" alt="image" width="10%" />
+<img src="https://github.com/user-attachments/assets/7b26b265-8895-4f51-b81f-a05329a481f2" alt="image" width="10%" />
+<img src="https://github.com/user-attachments/assets/9e498f10-6b14-4cf0-8de6-386f97d3e38a" alt="image" width="10%" />
